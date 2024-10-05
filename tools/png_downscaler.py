@@ -1,3 +1,4 @@
+# i used this to make the icons. thought it might be useful to put here
 from PIL import Image
 
 input_filename="abc.png" 
