@@ -34,7 +34,7 @@ If you wish to test the extension manually just clone the repo and then:
 ## Contributing
 
 If it becomes outdated due to a Firefox update and someone wants to help fix it that would be really cool. Otherwise this is a very simple tool and I don't intend to make it any more functional than the original [AlphaXiv Chrome Extension.](https://chromewebstore.google.com/detail/alphaxiv-open-research-di/liihfcjialakefgidmaadhajjikbjjab)
-If you do, just fork it and do whatever you want.
+If you do, just fork this and do whatever you want.
 
 ## Acknowledgements
 - Obviously massive thanks to both arXiv and AlphaXiv for making those sites
