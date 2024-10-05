@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "AlphaXiv for arXiv",
+  "version": "1.0",
+  "description": "Adds a 'View on AlphaXiv' option to arXiv papers",
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+  "permissions": [
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://arxiv.org/abs/*"],
+      "js": ["content_scripts/alphaxiv_injector.js"]
+    }
+  ],
+  "action": {
+    "default_title": "AlphaXiv Extension"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "alphaxiv-extension@abe116ce-617b-4670-a0e1-97531eb3fb74"
+    }
+  }
+}
