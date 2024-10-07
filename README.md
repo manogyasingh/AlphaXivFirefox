@@ -7,10 +7,9 @@
 ### Installing from the Firefox Add-ons Store
 
 1. Visit the [AlphaXiv for arXiv](https://addons.mozilla.org/firefox/addon/alphaxiv-for-arxiv/) page on the Firefox Add-ons Store.
-> NOTE THAT I'VE JUST SUBMITTED IT FOR REVIEW AND ITS POSSIBLY NOT UP THERE YET
-3. Click on **"Add to Firefox"**.
-4. Follow the prompts to install the extension.
-5. Once installed, navigate to any [arxiv.org](https://arxiv.org/) paper to see the "View on AlphaXiv" link in the "Access Paper" section.
+2. Click on **"Add to Firefox"**.
+3. Follow the prompts to install the extension.
+4. Once installed, navigate to any [arxiv.org](https://arxiv.org/) paper to see the "View on AlphaXiv" link in the "Access Paper" section.
 
 ### Installing Manually for Testing
 
