@@ -35,6 +35,8 @@ If you wish to test the extension manually just clone the repo and then:
 If it becomes outdated due to a Firefox update and someone wants to help fix it that would be really cool. Otherwise this is a very simple tool and I don't intend to make it any more functional than the original [AlphaXiv Chrome Extension.](https://chromewebstore.google.com/detail/alphaxiv-open-research-di/liihfcjialakefgidmaadhajjikbjjab)
 If you do, just fork this and do whatever you want.
 
+Notably this version lacks a feature: this doesn't show the number of comments on AlphaXiv. That's one area with a scope for improvement.
+
 ## Acknowledgements
 - Obviously massive thanks to both arXiv and AlphaXiv for making those sites
 - this extension is inspired by the original [AlphaXiv Chrome Extension.](https://chromewebstore.google.com/detail/alphaxiv-open-research-di/liihfcjialakefgidmaadhajjikbjjab)
